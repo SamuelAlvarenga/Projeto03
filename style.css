@@ -100,7 +100,11 @@ fieldset legend {
   font-size: 12px;
   line-height: 20px;
   margin-left: 12px;
-  color: #c1bccc;
+  color: #c7c5cb;
+}
+
+.input-wrapper label span:hover {
+  color: #6c6a71;
 }
 
 .input-wrapper input,
@@ -116,7 +120,7 @@ fieldset legend {
   font-weight: 400px;
   font-size: 16px;
   line-height: 26px;
-  color: #c1bccc;
+  color: #6c6a71;
 }
 
 .input-wrapper textarea {
